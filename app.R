@@ -5,6 +5,7 @@
 # https://rstats.wtf/debugging-r-code.html
 # https://shiny.rstudio.com/articles/layout-guide.html#:~:text=To%20create%20rows%20within%20the,use%20the%20column()%20function.
 # https://stackoverflow.com/questions/31573610/r-shiny-updating-checkboxgroupinput-based-on-another-checkboxgroupinput
+# https://bioconductor.org/packages/release/bioc/vignettes/trackViewer/inst/doc/trackViewer.html
 
 
 ## set working directory
