@@ -5,4 +5,5 @@ Microgliome is a collation of key microglial sequencing datasets into a user-fri
 This work is supported by the Canadian Open Neuroscience Platform (CONP) Scholar Award.
 Check out more details here: https://conp.ca/jennifer-kim/
 
-https://github.com/ciernialab/Microgliome/blob/main/CONP_logo.png
+
+![alt text](https://github.com/ciernialab/Microgliome/blob/main/CONP_logo.png?raw=true)
